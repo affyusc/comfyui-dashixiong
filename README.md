@@ -2,9 +2,7 @@
 
 [English](README_EN.md) | 简体中文
 
-<div align="center">
-    <img src="images/banner.png" width="800"/>
-</div>
+
 
 ## 📝 简介
 Free Transform 是一个用于 ComfyUI 的高级图像变换插件，提供了灵活的图像处理功能。
@@ -77,7 +75,7 @@ Free Transform 是一个用于 ComfyUI 的高级图像变换插件，提供了�
 3. 等待自动安装完成
 
 <div align="center">
-    <img src="images/install.png" width="600"/>
+    <img src="images/anzhuang.png" width="600"/>
     <p>安装过程示意图</p>
 </div>
 
@@ -97,7 +95,7 @@ Free Transform 是一个用于 ComfyUI 的高级图像变换插件，提供了�
 4. 输出处理后的图像
 
 <div align="center">
-    <img src="images/usage.png" width="700"/>
+    <img src="images/shuchujieguo.png" width="700"/>
     <p>节点使用说明</p>
 </div>
 
@@ -152,9 +150,10 @@ Free Transform 是一个用于 ComfyUI 的高级图像变换插件，提供了�
 
 
 
+
 ## 📞 联系方式
 如有问题或建议，请通过以下方式联系：
-- GitHub Issues
+- 微信：xiutuxiaoliu
 - Email: [1416854721@qq.com]
 
 ## 🙏 致谢
