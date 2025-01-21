@@ -124,7 +124,7 @@ Free Transform 是一个用于 ComfyUI 的高级图像变换插件，提供了�
 - 确认所有依赖已正确安装
 - 检查 ComfyUI 版本兼容性
 - 查看 ComfyUI 日志获取详细错误信息
-- 模型需要下载grounding-dino  vitmatte  bert-base-uncased  sam 也就是抠图插件所用的模型
+- 模型需要下载 grounding-dino  vitmatte  bert-base-uncased  sam 也就是抠图插件所用的模型
 </details>
 
 <details>
