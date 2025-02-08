@@ -2,7 +2,7 @@
 
 [English](README_EN.md) | 简体中文
 
-
+需要更专业的功能可以查看 [V3版本](https://github.com/affyusc/comfyui-dashixiongv3)
 
 ## 📝 简介
 Free Transform 是一个用于 ComfyUI 的高级图像变换插件，提供了灵活的图像处理功能。
